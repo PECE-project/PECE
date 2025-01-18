@@ -11,16 +11,33 @@ following YouTube video.
 Steps to Create Group
 --------------------------
 
-1. Navigate to ‘Dashboard’. This link is listed in the main menu.
+1. Navigate to ‘Create Group’. This link is listed in the main menu.
 
 2. Select to add a group. You will be directed to a web form to create your group.
 
-3. Enter the relevant fields (see Field glossary for explanation).
+3. Enter a title in the "Name" textbox for your new group.
 
-4. Note that in order to create a group as a child of another group, you should
-select the Parent Group in the Group Audience field.
+4. In the "Image" field, you can upload an image related to your group.
 
-5. Save the group. You are now the group administrator.
+5. Add a description related to your group, in the "Description" textbox.
+
+6. The "Group visibility" field, determines whether the group can be viewed by all site visitors or only by its own members. 
+It does not determine the visibility of group content. Select whether you would like your group to be publicly or privately visible.
+
+7. The "Substantive logic" provides the opportunity to describe the rational behind the creation of the group. 
+You may select a substantive logic by typing in the first few letters and making a selection from the drop-down menu.
+
+8. If there are any other group members or managers, add them by typing the first few letters of their name into the field. 
+Their screen name should pop up. Select their name. To add more than one contributor, click the "Add another item" button and repeat the same process.
+
+9. Next, add optional keyword tags to your timeline essay. Tag the content. As you type, suggested tags will be automatically generated if they exist already in the system. 
+We recommend following these suggestions and using existing tags if they are not too different from what you intended, but feel free to make up new tags!
+
+10. The "Relations" field allows you to select group(s) that are related to the current sub-group being made. 
+Type in the first few letters and a drop-down menu of groups to choose from will appear.
+
+11. Finally, click “Save” at the top of the page to save your work. 
+And remember: all of these settings can be revised at any time. You are now the group administrator.
 
 
 Steps to Join a Group
@@ -106,8 +123,11 @@ which will soon be listed on the group page.
 
 ### What do the different group membership roles mean?
 
+A group manager is the person responsible for stewarding the group on PECE. The manager has the ability to make edits to the group itself and to add or remove members. 
+Group members have access to view artifacts, essays, etc when the view permissions for that content have been restricted to the group. 
 Administrators can manage groups as described above. **There is no
 difference between a researcher and a contributor in a group.**
+
 
 ### I’m trying to approve a user’s request to join a group, and I keep getting an error. What’s going on?
 
